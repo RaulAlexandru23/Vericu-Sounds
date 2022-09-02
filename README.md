@@ -1,0 +1,1 @@
+Sunete pentru Vericu Troll
