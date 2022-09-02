@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/avatars/1012089160233918474/9381e2d9160821a031727ce6c399828c.webp?size=1024" width="25%" />
+  <img src="https://i.ibb.co/dLkFJb2/Untitled-1.png" width="45%" />
 </p>
 
 <div align="center">
