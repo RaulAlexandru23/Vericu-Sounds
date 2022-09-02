@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/dLkFJb2/Untitled-1.png" width="33%" />
+  <img src="https://i.imgur.com/ULWrOQx.png" alt="Avatar" width="33%" />
 </p>
 
 <div align="center">
